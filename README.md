@@ -1,4 +1,3 @@
-# CIS-3902-AI-ML_cameron-
 # CIS 3902 – AI and Machine Learning
  
 Name: Cameron Watson   
